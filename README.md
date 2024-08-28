@@ -2,6 +2,6 @@ line
 another line
 
 ---
-line
+*line*
 
 another line
