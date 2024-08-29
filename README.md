@@ -10,7 +10,11 @@ another line_
 
 another line
 
-~~bad text~~
+~~bad text~~  ```bash
+
+ls - la  ```
+
+```html  <h1> It's simple text</h1>  ```
 
 
  
