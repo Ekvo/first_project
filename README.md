@@ -2,6 +2,7 @@
 another line_
 
 [Яндекс](https://www.yandex.ru)
+[Яндекс](https://www.yandex.ru "Я Yandex!") 
 
 ---
 *line*
